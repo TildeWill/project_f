@@ -1,0 +1,5 @@
+<template name="poolRow">
+  {{#each addOneBasedIndex ../fencers}}
+  <td class="{{#if fenceSelf index ../index}}cant-fence-self{{/if}} score">&nbsp;</td>
+  {{/each}}
+</template>

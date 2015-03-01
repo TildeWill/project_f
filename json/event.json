@@ -1,0 +1,861 @@
+{
+  event: {
+    id: 107665,
+    tournament_id: 27199,
+    tournament: "Bay Cup at EBFG: VXE4, VWE2, VXF4",
+    full_name: "VetCombined Mixed Foil",
+    weapon: "Foil",
+    gender: "Mixed",
+    authority: {},
+    age_limit: "VetCombined",
+    rating_limit: "Open",
+    rating: "B1",
+    rating_prediction: "B1",
+    entries: 18,
+    prereg_count: 22,
+    is_team: false,
+    description: "",
+    close_of_reg: "2015-02-15T09:00:00-08:00",
+    fee: "0.00",
+    preregs: [
+      {
+        id: 1067226,
+        competitor_id: 16691,
+        rating: "C2014",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 16691,
+          usfa_id: "100038254",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Stephen",
+          last_name: "Murray",
+          gender: "M",
+          birthyear: 1961
+        }
+      },
+      {
+        id: 1079094,
+        competitor_id: 114139,
+        rating: "U",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 114139,
+          usfa_id: "100164274",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Brenda",
+          last_name: "Powers",
+          gender: "F",
+          birthyear: 1951
+        }
+      },
+      {
+        id: 1126526,
+        competitor_id: 18228,
+        rating: "D2014",
+        club: {
+          id: 1586,
+          name: "Accademia di Scherma Classica",
+          initials: "ADSC"
+        },
+        competitor: {
+          id: 18228,
+          usfa_id: "100039134",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Brian",
+          last_name: "De Raad",
+          gender: "M",
+          birthyear: 1969
+        }
+      },
+      {
+        id: 1129869,
+        competitor_id: 10374,
+        rating: "U",
+        club: {
+          id: 8232,
+          name: "The Fencing Center",
+          initials: "TFCSANJOSE"
+        },
+        competitor: {
+          id: 10374,
+          usfa_id: "100034843",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Jonathan",
+          last_name: "Jefferies",
+          gender: "M",
+          birthyear: 1944
+        }
+      },
+      {
+        id: 1129907,
+        competitor_id: 91256,
+        rating: "D2014",
+        club: {
+          id: 929,
+          name: "The Fencing Center of San Jose",
+          initials: "TFC"
+        },
+        competitor: {
+          id: 91256,
+          usfa_id: "100143000",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Allen",
+          last_name: "Luong",
+          gender: "M",
+          birthyear: 1965
+        }
+      },
+      {
+        id: 1132545,
+        competitor_id: 78606,
+        rating: "B2015",
+        club: {
+          id: 8101,
+          name: "Hristov-csikany Fencers Llc",
+          initials: "HRIS-CSIK"
+        },
+        competitor: {
+          id: 78606,
+          usfa_id: "100017339",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Tamas",
+          last_name: "Vidovszky",
+          gender: "M",
+          birthyear: 1964
+        }
+      },
+      {
+        id: 1134392,
+        competitor_id: 17383,
+        rating: "C2014",
+        club: {
+          id: 8232,
+          name: "The Fencing Center",
+          initials: "TFCSANJOSE"
+        },
+        competitor: {
+          id: 17383,
+          usfa_id: "100053615",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Lou",
+          last_name: "Mariani",
+          gender: "M",
+          birthyear: 1955
+        }
+      },
+      {
+        id: 1142396,
+        competitor_id: 18578,
+        rating: "U",
+        club: {
+          id: 160,
+          name: "Halberstadt Fencers' Club",
+          initials: "HALB"
+        },
+        competitor: {
+          id: 18578,
+          usfa_id: "100077136",
+          cff_id: "",
+          fie_id: "",
+          first_name: "William",
+          last_name: "Sander",
+          gender: "M",
+          birthyear: 1951
+        }
+      },
+      {
+        id: 1145187,
+        competitor_id: 34460,
+        rating: "E2013",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 34460,
+          usfa_id: "100089035",
+          cff_id: "",
+          fie_id: "",
+          first_name: "William",
+          last_name: "Sterling",
+          gender: "M",
+          birthyear: 1955
+        }
+      },
+      {
+        id: 1145456,
+        competitor_id: 92453,
+        rating: "C2013",
+        club: {
+          id: 929,
+          name: "The Fencing Center of San Jose",
+          initials: "TFC"
+        },
+        competitor: {
+          id: 92453,
+          usfa_id: "100148293",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Ommer",
+          last_name: "Bruce",
+          gender: "M",
+          birthyear: 1956
+        }
+      },
+      {
+        id: 1146720,
+        competitor_id: 17814,
+        rating: "C2014",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 17814,
+          usfa_id: "100029510",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Patrick",
+          last_name: "Jones",
+          gender: "M",
+          birthyear: 1971
+        }
+      },
+      {
+        id: 1147683,
+        competitor_id: 25203,
+        rating: "C2015",
+        club: {
+          id: 160,
+          name: "Halberstadt Fencers' Club",
+          initials: "HALB"
+        },
+        competitor: {
+          id: 25203,
+          usfa_id: "100017347",
+          cff_id: "",
+          fie_id: "",
+          first_name: "William",
+          last_name: "Cracraft",
+          gender: "M",
+          birthyear: 1959
+        }
+      },
+      {
+        id: 1148872,
+        competitor_id: 97866,
+        rating: "U",
+        club: {
+          id: 1527,
+          name: "My Fencing Center",
+          initials: "MFC"
+        },
+        competitor: {
+          id: 97866,
+          usfa_id: "100004657",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Bryan",
+          last_name: "Jones",
+          gender: "M",
+          birthyear: 1974
+        }
+      },
+      {
+        id: 1151863,
+        competitor_id: 11356,
+        rating: "A2012",
+        club: {
+          id: 5529,
+          name: "Le Club Touché",
+          initials: "TOUCHé"
+        },
+        competitor: {
+          id: 11356,
+          usfa_id: "100020009",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Tom",
+          last_name: "Lutton",
+          gender: "M",
+          birthyear: 1953
+        }
+      },
+      {
+        id: 1153803,
+        competitor_id: 41218,
+        rating: "C2014",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 41218,
+          usfa_id: "100022639",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Jason",
+          last_name: "Epstein",
+          gender: "M",
+          birthyear: 1971
+        }
+      },
+      {
+        id: 1153817,
+        competitor_id: 8391,
+        rating: "U",
+        club: {
+          id: 8016,
+          name: "Olympic Club",
+          initials: "OLYMPIC"
+        },
+        competitor: {
+          id: 8391,
+          usfa_id: "100022250",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Charles",
+          last_name: "Lucasey",
+          gender: "M",
+          birthyear: 1963
+        }
+      },
+      {
+        id: 1153926,
+        competitor_id: 71378,
+        rating: "C2012",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 71378,
+          usfa_id: "100021910",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Harold C",
+          last_name: "Hayes",
+          gender: "M",
+          birthyear: 1946
+        }
+      },
+      {
+        id: 1153936,
+        competitor_id: 76096,
+        rating: "B2014",
+        club: {
+          id: 5339,
+          name: "Sacred Heart Fencing Club",
+          initials: "SHFC"
+        },
+        competitor: {
+          id: 76096,
+          usfa_id: "100021886",
+          cff_id: "",
+          fie_id: "",
+          first_name: "George",
+          last_name: "Biery",
+          gender: "M",
+          birthyear: 1972
+        }
+      },
+      {
+        id: 1153962,
+        competitor_id: 10371,
+        rating: "B2013",
+        club: {
+          id: 382,
+          name: "Cardinal Fencing Club",
+          initials: "CARD"
+        },
+        competitor: {
+          id: 10371,
+          usfa_id: "100068286",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Oscar",
+          last_name: "Estell",
+          gender: "M",
+          birthyear: 1961
+        }
+      },
+      {
+        id: 1154136,
+        competitor_id: 18973,
+        rating: "B2013",
+        club: {
+          id: 1,
+          name: "Unattached (or Unknown)",
+          initials: "UNAT"
+        },
+        competitor: {
+          id: 18973,
+          usfa_id: "100080647",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Maciej",
+          last_name: "Zwieniecki",
+          gender: "M",
+          birthyear: 1963
+        }
+      },
+      {
+        id: 1154153,
+        competitor_id: 18585,
+        rating: "U",
+        club: {
+          id: 929,
+          name: "The Fencing Center of San Jose",
+          initials: "TFC"
+        },
+        competitor: {
+          id: 18585,
+          usfa_id: "100078640",
+          cff_id: "",
+          fie_id: "",
+          first_name: "James",
+          last_name: "Simoni",
+          gender: "M",
+          birthyear: 1949
+        }
+      },
+      {
+        id: 1154405,
+        competitor_id: 18185,
+        rating: "C2012",
+        club: {
+          id: 765,
+          name: "George Platt's Swordplay",
+          initials: "GPS"
+        },
+        competitor: {
+          id: 18185,
+          usfa_id: "100073116",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Dr. James",
+          last_name: "Fiatarone",
+          gender: "M",
+          birthyear: 1953
+        }
+      }
+    ],
+    results: [
+      {
+        id: 1145230,
+        place: 1,
+        is_excluded: false,
+        rating_then: "B2014",
+        rating_earned: "B2015",
+        club: {
+          id: 8101,
+          name: "Hristov-csikany Fencers Llc",
+          initials: "HRIS-CSIK"
+        },
+        competitor: {
+          id: 78606,
+          usfa_id: "100017339",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Tamas",
+          last_name: "Vidovszky",
+          gender: "M",
+          birthyear: 1964
+        }
+      },
+      {
+        id: 1145231,
+        place: 2,
+        is_excluded: false,
+        rating_then: "B2013",
+        rating_earned: "",
+        club: {
+          id: 1,
+          name: "Unattached (or Unknown)",
+          initials: "UNAT"
+        },
+        competitor: {
+          id: 18973,
+          usfa_id: "100080647",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Maciej",
+          last_name: "Zwieniecki",
+          gender: "M",
+          birthyear: 1963
+        }
+      },
+      {
+        id: 1145232,
+        place: 3,
+        is_excluded: false,
+        rating_then: "A2012",
+        rating_earned: "",
+        club: {
+          id: 382,
+          name: "Cardinal Fencing Club",
+          initials: "CARD"
+        },
+        competitor: {
+          id: 11356,
+          usfa_id: "100020009",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Tom",
+          last_name: "Lutton",
+          gender: "M",
+          birthyear: 1953
+        }
+      },
+      {
+        id: 1145233,
+        place: 3,
+        is_excluded: false,
+        rating_then: "B2013",
+        rating_earned: "",
+        club: {
+          id: 382,
+          name: "Cardinal Fencing Club",
+          initials: "CARD"
+        },
+        competitor: {
+          id: 10371,
+          usfa_id: "100068286",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Oscar",
+          last_name: "Estell",
+          gender: "M",
+          birthyear: 1961
+        }
+      },
+      {
+        id: 1145234,
+        place: 5,
+        is_excluded: false,
+        rating_then: "C2014",
+        rating_earned: "",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 17814,
+          usfa_id: "100029510",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Patrick",
+          last_name: "Jones",
+          gender: "M",
+          birthyear: 1971
+        }
+      },
+      {
+        id: 1145235,
+        place: 6,
+        is_excluded: false,
+        rating_then: "C2014",
+        rating_earned: "",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 41218,
+          usfa_id: "100022639",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Jason",
+          last_name: "Epstein",
+          gender: "M",
+          birthyear: 1971
+        }
+      },
+      {
+        id: 1145236,
+        place: 7,
+        is_excluded: false,
+        rating_then: "B2014",
+        rating_earned: "",
+        club: {
+          id: 5339,
+          name: "Sacred Heart Fencing Club",
+          initials: "SHFC"
+        },
+        competitor: {
+          id: 76096,
+          usfa_id: "100021886",
+          cff_id: "",
+          fie_id: "",
+          first_name: "George",
+          last_name: "Biery",
+          gender: "M",
+          birthyear: 1972
+        }
+      },
+      {
+        id: 1145237,
+        place: 8,
+        is_excluded: false,
+        rating_then: "C2014",
+        rating_earned: "",
+        club: {
+          id: 929,
+          name: "The Fencing Center of San Jose",
+          initials: "TFC"
+        },
+        competitor: {
+          id: 17383,
+          usfa_id: "100053615",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Lou",
+          last_name: "Mariani",
+          gender: "M",
+          birthyear: 1955
+        }
+      },
+      {
+        id: 1145238,
+        place: 9,
+        is_excluded: false,
+        rating_then: "C2015",
+        rating_earned: "",
+        club: {
+          id: 160,
+          name: "Halberstadt Fencers' Club",
+          initials: "HALB"
+        },
+        competitor: {
+          id: 25203,
+          usfa_id: "100017347",
+          cff_id: "",
+          fie_id: "",
+          first_name: "William",
+          last_name: "Cracraft",
+          gender: "M",
+          birthyear: 1959
+        }
+      },
+      {
+        id: 1145239,
+        place: 10,
+        is_excluded: false,
+        rating_then: "C2012",
+        rating_earned: "",
+        club: {
+          id: 765,
+          name: "George Platt's Swordplay",
+          initials: "GPS"
+        },
+        competitor: {
+          id: 18185,
+          usfa_id: "100073116",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Dr. James",
+          last_name: "Fiatarone",
+          gender: "M",
+          birthyear: 1953
+        }
+      },
+      {
+        id: 1145240,
+        place: 11,
+        is_excluded: false,
+        rating_then: "D2014",
+        rating_earned: "",
+        club: {
+          id: 929,
+          name: "The Fencing Center of San Jose",
+          initials: "TFC"
+        },
+        competitor: {
+          id: 91256,
+          usfa_id: "100143000",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Allen",
+          last_name: "Luong",
+          gender: "M",
+          birthyear: 1965
+        }
+      },
+      {
+        id: 1145241,
+        place: 12,
+        is_excluded: false,
+        rating_then: "C2014",
+        rating_earned: "",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 16691,
+          usfa_id: "100038254",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Stephen",
+          last_name: "Murray",
+          gender: "M",
+          birthyear: 1961
+        }
+      },
+      {
+        id: 1145242,
+        place: 13,
+        is_excluded: false,
+        rating_then: "U",
+        rating_earned: "",
+        club: {
+          id: 1527,
+          name: "My Fencing Center",
+          initials: "MFC"
+        },
+        competitor: {
+          id: 97866,
+          usfa_id: "100004657",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Bryan",
+          last_name: "Jones",
+          gender: "M",
+          birthyear: 1974
+        }
+      },
+      {
+        id: 1145243,
+        place: 14,
+        is_excluded: false,
+        rating_then: "C2012",
+        rating_earned: "",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 71378,
+          usfa_id: "100021910",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Harold C",
+          last_name: "Hayes",
+          gender: "M",
+          birthyear: 1946
+        }
+      },
+      {
+        id: 1145244,
+        place: 15,
+        is_excluded: false,
+        rating_then: "E2013",
+        rating_earned: "",
+        club: {
+          id: 949,
+          name: "Pacific Fencing Club",
+          initials: "PFC"
+        },
+        competitor: {
+          id: 34460,
+          usfa_id: "100089035",
+          cff_id: "",
+          fie_id: "",
+          first_name: "William",
+          last_name: "Sterling",
+          gender: "M",
+          birthyear: 1955
+        }
+      },
+      {
+        id: 1145245,
+        place: 16,
+        is_excluded: false,
+        rating_then: "C2013",
+        rating_earned: "",
+        club: {
+          id: 929,
+          name: "The Fencing Center of San Jose",
+          initials: "TFC"
+        },
+        competitor: {
+          id: 92453,
+          usfa_id: "100148293",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Ommer",
+          last_name: "Bruce",
+          gender: "M",
+          birthyear: 1956
+        }
+      },
+      {
+        id: 1145246,
+        place: 17,
+        is_excluded: false,
+        rating_then: "U",
+        rating_earned: "",
+        club: {
+          id: 160,
+          name: "Halberstadt Fencers' Club",
+          initials: "HALB"
+        },
+        competitor: {
+          id: 18578,
+          usfa_id: "100077136",
+          cff_id: "",
+          fie_id: "",
+          first_name: "William",
+          last_name: "Sander",
+          gender: "M",
+          birthyear: 1951
+        }
+      },
+      {
+        id: 1145247,
+        place: 18,
+        is_excluded: false,
+        rating_then: "U",
+        rating_earned: "",
+        club: {
+          id: 8016,
+          name: "Olympic Club",
+          initials: "OLYMPIC"
+        },
+        competitor: {
+          id: 8391,
+          usfa_id: "100022250",
+          cff_id: "",
+          fie_id: "",
+          first_name: "Charles",
+          last_name: "Lucasey",
+          gender: "M",
+          birthyear: 1963
+        }
+      }
+    ]
+  }
+}

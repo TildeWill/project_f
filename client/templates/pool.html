@@ -1,0 +1,45 @@
+<template name="pool">
+  <h1>Number of fencers: {{fencers.length}}</h1>
+  <table class="box pool_table" cellspacing="1" cellpadding="3" border="0">
+    <tbody>
+    <tr>
+      <th colspan="50">Pool #1</th>
+    </tr>
+    <tr class="odd-row">
+      <td class="fineprint comp"><!-- (seed) --> Competitor --- Club</td>
+      <td class="space">&nbsp;</td>
+      {{#each addOneBasedIndex fencers}}
+        <td class="column_header" width="20" align="center">{{index}}</td>
+      {{/each}}
+      <td class="column_header" width="10">&nbsp;</td>
+      <td class="column_header" align="center">V (%)</td>
+      <td class="column_header" width="20" align="center">TS</td>
+      <td class="column_header" width="20" align="center">TR</td>
+      <td class="column_header" width="20" align="center">Ind</td>
+      <td class="column_header" width="20" align="center">Pl</td>
+    </tr>
+    {{#each addOneBasedIndex fencers}}
+      <tr class="{{rowClass index}}">
+        <td class="comp" nowrap="">{{value.competitor.last_name}}, {{value.competitor.first_name}} : {{value.club.initials}}</td>
+        <td class="comp_no"><b>{{index}}</b></td>
+        {{>poolRow}}
+        <td class="space">&nbsp;</td>
+        <td class="pct" nowrap=""></td>
+        <td class="ind" nowrap=""></td>
+        <td class="ind" nowrap=""></td>
+        <td class="ind" nowrap=""></td>
+        <td class="ind" nowrap=""></td>
+      </tr>
+    {{/each}}
+    </tbody>
+  </table>
+
+  <table>
+    {{each poolOrder}}
+    <tr>
+      <td>{{left}}-{{right}}</td>
+      <td>{{leftName}} vs. {{rightName}}</td>
+    </tr>
+    {{/each}}
+  </table>
+</template>

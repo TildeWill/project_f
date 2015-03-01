@@ -1,0 +1,49 @@
+//https://api.askfred.net/v1/fencer/71378?_api_key=8551171e3a00b135970699f126b63d35
+{
+  fencer: {
+    id: 71378,
+    usfa_id: "100021910",
+    cff_id: null,
+    fie_id: null,
+    first_name: "Harold C",
+    last_name: "Hayes",
+    gender: "M",
+    birthyear: 1946,
+    division: {
+      id: 6,
+      name: "Northern California",
+      abbrev: "NORCAL"
+    },
+    clubs: [
+      {
+        id: 949,
+        name: "Pacific Fencing Club",
+        initials: "PFC"
+      }
+    ],
+    primary_club_id: 949,
+    usfa_ratings: {
+      foil: {
+        id: 355414,
+        weapon: "Foil",
+        letter: "C",
+        year: "2012",
+        authority: "USFA"
+      },
+      epee: {
+        id: 307913,
+        weapon: "Epee",
+        letter: "U",
+        year: null,
+        authority: "USFA"
+      },
+      saber: {
+        id: 307914,
+        weapon: "Saber",
+        letter: "U",
+        year: null,
+        authority: "USFA"
+      }
+    }
+  }
+}

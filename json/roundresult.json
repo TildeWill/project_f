@@ -1,0 +1,2065 @@
+//https://api.askfred.net/v1/roundresult?_api_key=8551171e3a00b135970699f126b63d35&event_id=107665
+{
+  filters: {
+    event_id: "107665",
+    _sort: null
+  },
+  total_matched: 2,
+  page: 1,
+  per_page: 10,
+  rounds: [
+    {
+      id: 122631,
+      tournament_id: 27199,
+      event_id: 107665,
+      round_type: "pool",
+      round_desc: "Round #1 - Pools",
+      seq: 1,
+      pools: [
+        {
+          bouts: [
+            {
+              id: 3703856,
+              seq: 0,
+              fencers: [
+                {
+                  id: 71378,
+                  usfa_id: "100021910",
+                  first_name: "Harold C",
+                  last_name: "Hayes",
+                  gender: "M",
+                  birthyear: 1946,
+                  score: 4,
+                  status: "D",
+                  seed: 13,
+                  primary_club_id: 949
+                },
+                {
+                  id: 92453,
+                  usfa_id: "100148293",
+                  first_name: "Ommer",
+                  last_name: "Bruce",
+                  gender: "M",
+                  birthyear: 1956,
+                  score: 5,
+                  status: "V",
+                  seed: 11,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703857,
+              seq: 0,
+              fencers: [
+                {
+                  id: 17814,
+                  usfa_id: "100029510",
+                  first_name: "Patrick",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 5,
+                  status: "V",
+                  seed: 7,
+                  primary_club_id: 949
+                },
+                {
+                  id: 92453,
+                  usfa_id: "100148293",
+                  first_name: "Ommer",
+                  last_name: "Bruce",
+                  gender: "M",
+                  birthyear: 1956,
+                  score: 1,
+                  status: "D",
+                  seed: 11,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703858,
+              seq: 0,
+              fencers: [
+                {
+                  id: 17814,
+                  usfa_id: "100029510",
+                  first_name: "Patrick",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 5,
+                  status: "V",
+                  seed: 7,
+                  primary_club_id: 949
+                },
+                {
+                  id: 71378,
+                  usfa_id: "100021910",
+                  first_name: "Harold C",
+                  last_name: "Hayes",
+                  gender: "M",
+                  birthyear: 1946,
+                  score: 2,
+                  status: "D",
+                  seed: 13,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703859,
+              seq: 0,
+              fencers: [
+                {
+                  id: 92453,
+                  usfa_id: "100148293",
+                  first_name: "Ommer",
+                  last_name: "Bruce",
+                  gender: "M",
+                  birthyear: 1956,
+                  score: 3,
+                  status: "D",
+                  seed: 11,
+                  primary_club_id: 929
+                },
+                {
+                  id: 97866,
+                  usfa_id: "100004657",
+                  first_name: "Bryan",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1974,
+                  score: 5,
+                  status: "V",
+                  seed: 18,
+                  primary_club_id: 1527
+                }
+              ]
+            },
+            {
+              id: 3703860,
+              seq: 0,
+              fencers: [
+                {
+                  id: 71378,
+                  usfa_id: "100021910",
+                  first_name: "Harold C",
+                  last_name: "Hayes",
+                  gender: "M",
+                  birthyear: 1946,
+                  score: 5,
+                  status: "V",
+                  seed: 13,
+                  primary_club_id: 949
+                },
+                {
+                  id: 97866,
+                  usfa_id: "100004657",
+                  first_name: "Bryan",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1974,
+                  score: 2,
+                  status: "D",
+                  seed: 18,
+                  primary_club_id: 1527
+                }
+              ]
+            },
+            {
+              id: 3703861,
+              seq: 0,
+              fencers: [
+                {
+                  id: 17814,
+                  usfa_id: "100029510",
+                  first_name: "Patrick",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 5,
+                  status: "V",
+                  seed: 7,
+                  primary_club_id: 949
+                },
+                {
+                  id: 97866,
+                  usfa_id: "100004657",
+                  first_name: "Bryan",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1974,
+                  score: 1,
+                  status: "D",
+                  seed: 18,
+                  primary_club_id: 1527
+                }
+              ]
+            },
+            {
+              id: 3703862,
+              seq: 0,
+              fencers: [
+                {
+                  id: 11356,
+                  usfa_id: "100020009",
+                  first_name: "Tom",
+                  last_name: "Lutton",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 5,
+                  status: "V",
+                  seed: 1,
+                  primary_club_id: 5529
+                },
+                {
+                  id: 92453,
+                  usfa_id: "100148293",
+                  first_name: "Ommer",
+                  last_name: "Bruce",
+                  gender: "M",
+                  birthyear: 1956,
+                  score: 2,
+                  status: "D",
+                  seed: 11,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703863,
+              seq: 0,
+              fencers: [
+                {
+                  id: 11356,
+                  usfa_id: "100020009",
+                  first_name: "Tom",
+                  last_name: "Lutton",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 5,
+                  status: "V",
+                  seed: 1,
+                  primary_club_id: 5529
+                },
+                {
+                  id: 71378,
+                  usfa_id: "100021910",
+                  first_name: "Harold C",
+                  last_name: "Hayes",
+                  gender: "M",
+                  birthyear: 1946,
+                  score: 1,
+                  status: "D",
+                  seed: 13,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703864,
+              seq: 0,
+              fencers: [
+                {
+                  id: 11356,
+                  usfa_id: "100020009",
+                  first_name: "Tom",
+                  last_name: "Lutton",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 4,
+                  status: "D",
+                  seed: 1,
+                  primary_club_id: 5529
+                },
+                {
+                  id: 17814,
+                  usfa_id: "100029510",
+                  first_name: "Patrick",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 5,
+                  status: "V",
+                  seed: 7,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703865,
+              seq: 0,
+              fencers: [
+                {
+                  id: 11356,
+                  usfa_id: "100020009",
+                  first_name: "Tom",
+                  last_name: "Lutton",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 4,
+                  status: "D",
+                  seed: 1,
+                  primary_club_id: 5529
+                },
+                {
+                  id: 97866,
+                  usfa_id: "100004657",
+                  first_name: "Bryan",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1974,
+                  score: 5,
+                  status: "V",
+                  seed: 18,
+                  primary_club_id: 1527
+                }
+              ]
+            },
+            {
+              id: 3703866,
+              seq: 0,
+              fencers: [
+                {
+                  id: 25203,
+                  usfa_id: "100017347",
+                  first_name: "William",
+                  last_name: "Cracraft",
+                  gender: "M",
+                  birthyear: 1959,
+                  score: 5,
+                  status: "V",
+                  seed: 6,
+                  primary_club_id: 160
+                },
+                {
+                  id: 92453,
+                  usfa_id: "100148293",
+                  first_name: "Ommer",
+                  last_name: "Bruce",
+                  gender: "M",
+                  birthyear: 1956,
+                  score: 3,
+                  status: "D",
+                  seed: 11,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703867,
+              seq: 0,
+              fencers: [
+                {
+                  id: 25203,
+                  usfa_id: "100017347",
+                  first_name: "William",
+                  last_name: "Cracraft",
+                  gender: "M",
+                  birthyear: 1959,
+                  score: 5,
+                  status: "V",
+                  seed: 6,
+                  primary_club_id: 160
+                },
+                {
+                  id: 71378,
+                  usfa_id: "100021910",
+                  first_name: "Harold C",
+                  last_name: "Hayes",
+                  gender: "M",
+                  birthyear: 1946,
+                  score: 4,
+                  status: "D",
+                  seed: 13,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703868,
+              seq: 0,
+              fencers: [
+                {
+                  id: 17814,
+                  usfa_id: "100029510",
+                  first_name: "Patrick",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 5,
+                  status: "V",
+                  seed: 7,
+                  primary_club_id: 949
+                },
+                {
+                  id: 25203,
+                  usfa_id: "100017347",
+                  first_name: "William",
+                  last_name: "Cracraft",
+                  gender: "M",
+                  birthyear: 1959,
+                  score: 2,
+                  status: "D",
+                  seed: 6,
+                  primary_club_id: 160
+                }
+              ]
+            },
+            {
+              id: 3703869,
+              seq: 0,
+              fencers: [
+                {
+                  id: 25203,
+                  usfa_id: "100017347",
+                  first_name: "William",
+                  last_name: "Cracraft",
+                  gender: "M",
+                  birthyear: 1959,
+                  score: 5,
+                  status: "V",
+                  seed: 6,
+                  primary_club_id: 160
+                },
+                {
+                  id: 97866,
+                  usfa_id: "100004657",
+                  first_name: "Bryan",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1974,
+                  score: 3,
+                  status: "D",
+                  seed: 18,
+                  primary_club_id: 1527
+                }
+              ]
+            },
+            {
+              id: 3703870,
+              seq: 0,
+              fencers: [
+                {
+                  id: 11356,
+                  usfa_id: "100020009",
+                  first_name: "Tom",
+                  last_name: "Lutton",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 5,
+                  status: "V",
+                  seed: 1,
+                  primary_club_id: 5529
+                },
+                {
+                  id: 25203,
+                  usfa_id: "100017347",
+                  first_name: "William",
+                  last_name: "Cracraft",
+                  gender: "M",
+                  birthyear: 1959,
+                  score: 0,
+                  status: "D",
+                  seed: 6,
+                  primary_club_id: 160
+                }
+              ]
+            }
+          ]
+        },
+        {
+          bouts: [
+            {
+              id: 3703871,
+              seq: 0,
+              fencers: [
+                {
+                  id: 8391,
+                  usfa_id: "100022250",
+                  first_name: "Charles",
+                  last_name: "Lucasey",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 1,
+                  status: "D",
+                  seed: 17,
+                  primary_club_id: 8016
+                },
+                {
+                  id: 34460,
+                  usfa_id: "100089035",
+                  first_name: "William",
+                  last_name: "Sterling",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 5,
+                  status: "V",
+                  seed: 15,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703872,
+              seq: 0,
+              fencers: [
+                {
+                  id: 34460,
+                  usfa_id: "100089035",
+                  first_name: "William",
+                  last_name: "Sterling",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 2,
+                  status: "D",
+                  seed: 15,
+                  primary_club_id: 949
+                },
+                {
+                  id: 78606,
+                  usfa_id: "100017339",
+                  first_name: "Tamas",
+                  last_name: "Vidovszky",
+                  gender: "M",
+                  birthyear: 1964,
+                  score: 5,
+                  status: "V",
+                  seed: 2,
+                  primary_club_id: 8101
+                }
+              ]
+            },
+            {
+              id: 3703873,
+              seq: 0,
+              fencers: [
+                {
+                  id: 8391,
+                  usfa_id: "100022250",
+                  first_name: "Charles",
+                  last_name: "Lucasey",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 2,
+                  status: "D",
+                  seed: 17,
+                  primary_club_id: 8016
+                },
+                {
+                  id: 78606,
+                  usfa_id: "100017339",
+                  first_name: "Tamas",
+                  last_name: "Vidovszky",
+                  gender: "M",
+                  birthyear: 1964,
+                  score: 5,
+                  status: "V",
+                  seed: 2,
+                  primary_club_id: 8101
+                }
+              ]
+            },
+            {
+              id: 3703874,
+              seq: 0,
+              fencers: [
+                {
+                  id: 17383,
+                  usfa_id: "100053615",
+                  first_name: "Lou",
+                  last_name: "Mariani",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 5,
+                  status: "V",
+                  seed: 8,
+                  primary_club_id: 929
+                },
+                {
+                  id: 34460,
+                  usfa_id: "100089035",
+                  first_name: "William",
+                  last_name: "Sterling",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 1,
+                  status: "D",
+                  seed: 15,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703875,
+              seq: 0,
+              fencers: [
+                {
+                  id: 8391,
+                  usfa_id: "100022250",
+                  first_name: "Charles",
+                  last_name: "Lucasey",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 1,
+                  status: "D",
+                  seed: 17,
+                  primary_club_id: 8016
+                },
+                {
+                  id: 17383,
+                  usfa_id: "100053615",
+                  first_name: "Lou",
+                  last_name: "Mariani",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 5,
+                  status: "V",
+                  seed: 8,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703876,
+              seq: 0,
+              fencers: [
+                {
+                  id: 17383,
+                  usfa_id: "100053615",
+                  first_name: "Lou",
+                  last_name: "Mariani",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 4,
+                  status: "D",
+                  seed: 8,
+                  primary_club_id: 929
+                },
+                {
+                  id: 78606,
+                  usfa_id: "100017339",
+                  first_name: "Tamas",
+                  last_name: "Vidovszky",
+                  gender: "M",
+                  birthyear: 1964,
+                  score: 5,
+                  status: "V",
+                  seed: 2,
+                  primary_club_id: 8101
+                }
+              ]
+            },
+            {
+              id: 3703877,
+              seq: 0,
+              fencers: [
+                {
+                  id: 10371,
+                  usfa_id: "100068286",
+                  first_name: "Oscar",
+                  last_name: "Estell",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 5,
+                  status: "V",
+                  seed: 5,
+                  primary_club_id: 382
+                },
+                {
+                  id: 34460,
+                  usfa_id: "100089035",
+                  first_name: "William",
+                  last_name: "Sterling",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 3,
+                  status: "D",
+                  seed: 15,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703878,
+              seq: 0,
+              fencers: [
+                {
+                  id: 8391,
+                  usfa_id: "100022250",
+                  first_name: "Charles",
+                  last_name: "Lucasey",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 2,
+                  status: "D",
+                  seed: 17,
+                  primary_club_id: 8016
+                },
+                {
+                  id: 10371,
+                  usfa_id: "100068286",
+                  first_name: "Oscar",
+                  last_name: "Estell",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 5,
+                  status: "V",
+                  seed: 5,
+                  primary_club_id: 382
+                }
+              ]
+            },
+            {
+              id: 3703879,
+              seq: 0,
+              fencers: [
+                {
+                  id: 10371,
+                  usfa_id: "100068286",
+                  first_name: "Oscar",
+                  last_name: "Estell",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 4,
+                  status: "D",
+                  seed: 5,
+                  primary_club_id: 382
+                },
+                {
+                  id: 78606,
+                  usfa_id: "100017339",
+                  first_name: "Tamas",
+                  last_name: "Vidovszky",
+                  gender: "M",
+                  birthyear: 1964,
+                  score: 5,
+                  status: "V",
+                  seed: 2,
+                  primary_club_id: 8101
+                }
+              ]
+            },
+            {
+              id: 3703880,
+              seq: 0,
+              fencers: [
+                {
+                  id: 10371,
+                  usfa_id: "100068286",
+                  first_name: "Oscar",
+                  last_name: "Estell",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 4,
+                  status: "D",
+                  seed: 5,
+                  primary_club_id: 382
+                },
+                {
+                  id: 17383,
+                  usfa_id: "100053615",
+                  first_name: "Lou",
+                  last_name: "Mariani",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 5,
+                  status: "V",
+                  seed: 8,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703881,
+              seq: 0,
+              fencers: [
+                {
+                  id: 18185,
+                  usfa_id: "100073116",
+                  first_name: "Dr. James",
+                  last_name: "Fiatarone",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 5,
+                  status: "V",
+                  seed: 12,
+                  primary_club_id: 765
+                },
+                {
+                  id: 34460,
+                  usfa_id: "100089035",
+                  first_name: "William",
+                  last_name: "Sterling",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 4,
+                  status: "D",
+                  seed: 15,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703882,
+              seq: 0,
+              fencers: [
+                {
+                  id: 8391,
+                  usfa_id: "100022250",
+                  first_name: "Charles",
+                  last_name: "Lucasey",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 4,
+                  status: "D",
+                  seed: 17,
+                  primary_club_id: 8016
+                },
+                {
+                  id: 18185,
+                  usfa_id: "100073116",
+                  first_name: "Dr. James",
+                  last_name: "Fiatarone",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 5,
+                  status: "V",
+                  seed: 12,
+                  primary_club_id: 765
+                }
+              ]
+            },
+            {
+              id: 3703883,
+              seq: 0,
+              fencers: [
+                {
+                  id: 18185,
+                  usfa_id: "100073116",
+                  first_name: "Dr. James",
+                  last_name: "Fiatarone",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 3,
+                  status: "D",
+                  seed: 12,
+                  primary_club_id: 765
+                },
+                {
+                  id: 78606,
+                  usfa_id: "100017339",
+                  first_name: "Tamas",
+                  last_name: "Vidovszky",
+                  gender: "M",
+                  birthyear: 1964,
+                  score: 5,
+                  status: "V",
+                  seed: 2,
+                  primary_club_id: 8101
+                }
+              ]
+            },
+            {
+              id: 3703884,
+              seq: 0,
+              fencers: [
+                {
+                  id: 17383,
+                  usfa_id: "100053615",
+                  first_name: "Lou",
+                  last_name: "Mariani",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 1,
+                  status: "D",
+                  seed: 8,
+                  primary_club_id: 929
+                },
+                {
+                  id: 18185,
+                  usfa_id: "100073116",
+                  first_name: "Dr. James",
+                  last_name: "Fiatarone",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 2,
+                  status: "V",
+                  seed: 12,
+                  primary_club_id: 765
+                }
+              ]
+            },
+            {
+              id: 3703885,
+              seq: 0,
+              fencers: [
+                {
+                  id: 10371,
+                  usfa_id: "100068286",
+                  first_name: "Oscar",
+                  last_name: "Estell",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 5,
+                  status: "V",
+                  seed: 5,
+                  primary_club_id: 382
+                },
+                {
+                  id: 18185,
+                  usfa_id: "100073116",
+                  first_name: "Dr. James",
+                  last_name: "Fiatarone",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 0,
+                  status: "D",
+                  seed: 12,
+                  primary_club_id: 765
+                }
+              ]
+            }
+          ]
+        },
+        {
+          bouts: [
+            {
+              id: 3703886,
+              seq: 0,
+              fencers: [
+                {
+                  id: 18973,
+                  usfa_id: "100080647",
+                  first_name: "Maciej",
+                  last_name: "Zwieniecki",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 3,
+                  status: "D",
+                  seed: 4,
+                  primary_club_id: 1
+                },
+                {
+                  id: 41218,
+                  usfa_id: "100022639",
+                  first_name: "Jason",
+                  last_name: "Epstein",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 5,
+                  status: "V",
+                  seed: 9,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703887,
+              seq: 0,
+              fencers: [
+                {
+                  id: 18973,
+                  usfa_id: "100080647",
+                  first_name: "Maciej",
+                  last_name: "Zwieniecki",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 3,
+                  status: "D",
+                  seed: 4,
+                  primary_club_id: 1
+                },
+                {
+                  id: 76096,
+                  usfa_id: "100021886",
+                  first_name: "George",
+                  last_name: "Biery",
+                  gender: "M",
+                  birthyear: 1972,
+                  score: 5,
+                  status: "V",
+                  seed: 3,
+                  primary_club_id: 5339
+                }
+              ]
+            },
+            {
+              id: 3703888,
+              seq: 0,
+              fencers: [
+                {
+                  id: 41218,
+                  usfa_id: "100022639",
+                  first_name: "Jason",
+                  last_name: "Epstein",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 4,
+                  status: "D",
+                  seed: 9,
+                  primary_club_id: 949
+                },
+                {
+                  id: 76096,
+                  usfa_id: "100021886",
+                  first_name: "George",
+                  last_name: "Biery",
+                  gender: "M",
+                  birthyear: 1972,
+                  score: 5,
+                  status: "V",
+                  seed: 3,
+                  primary_club_id: 5339
+                }
+              ]
+            },
+            {
+              id: 3703889,
+              seq: 0,
+              fencers: [
+                {
+                  id: 18578,
+                  usfa_id: "100077136",
+                  first_name: "William",
+                  last_name: "Sander",
+                  gender: "M",
+                  birthyear: 1951,
+                  score: 2,
+                  status: "D",
+                  seed: 16,
+                  primary_club_id: 160
+                },
+                {
+                  id: 18973,
+                  usfa_id: "100080647",
+                  first_name: "Maciej",
+                  last_name: "Zwieniecki",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 5,
+                  status: "V",
+                  seed: 4,
+                  primary_club_id: 1
+                }
+              ]
+            },
+            {
+              id: 3703890,
+              seq: 0,
+              fencers: [
+                {
+                  id: 18578,
+                  usfa_id: "100077136",
+                  first_name: "William",
+                  last_name: "Sander",
+                  gender: "M",
+                  birthyear: 1951,
+                  score: 2,
+                  status: "D",
+                  seed: 16,
+                  primary_club_id: 160
+                },
+                {
+                  id: 41218,
+                  usfa_id: "100022639",
+                  first_name: "Jason",
+                  last_name: "Epstein",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 5,
+                  status: "V",
+                  seed: 9,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703891,
+              seq: 0,
+              fencers: [
+                {
+                  id: 18578,
+                  usfa_id: "100077136",
+                  first_name: "William",
+                  last_name: "Sander",
+                  gender: "M",
+                  birthyear: 1951,
+                  score: 3,
+                  status: "D",
+                  seed: 16,
+                  primary_club_id: 160
+                },
+                {
+                  id: 76096,
+                  usfa_id: "100021886",
+                  first_name: "George",
+                  last_name: "Biery",
+                  gender: "M",
+                  birthyear: 1972,
+                  score: 5,
+                  status: "V",
+                  seed: 3,
+                  primary_club_id: 5339
+                }
+              ]
+            },
+            {
+              id: 3703892,
+              seq: 0,
+              fencers: [
+                {
+                  id: 16691,
+                  usfa_id: "100038254",
+                  first_name: "Stephen",
+                  last_name: "Murray",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 3,
+                  status: "D",
+                  seed: 10,
+                  primary_club_id: 949
+                },
+                {
+                  id: 18973,
+                  usfa_id: "100080647",
+                  first_name: "Maciej",
+                  last_name: "Zwieniecki",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 5,
+                  status: "V",
+                  seed: 4,
+                  primary_club_id: 1
+                }
+              ]
+            },
+            {
+              id: 3703893,
+              seq: 0,
+              fencers: [
+                {
+                  id: 16691,
+                  usfa_id: "100038254",
+                  first_name: "Stephen",
+                  last_name: "Murray",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 2,
+                  status: "D",
+                  seed: 10,
+                  primary_club_id: 949
+                },
+                {
+                  id: 41218,
+                  usfa_id: "100022639",
+                  first_name: "Jason",
+                  last_name: "Epstein",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 5,
+                  status: "V",
+                  seed: 9,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703894,
+              seq: 0,
+              fencers: [
+                {
+                  id: 16691,
+                  usfa_id: "100038254",
+                  first_name: "Stephen",
+                  last_name: "Murray",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 2,
+                  status: "D",
+                  seed: 10,
+                  primary_club_id: 949
+                },
+                {
+                  id: 76096,
+                  usfa_id: "100021886",
+                  first_name: "George",
+                  last_name: "Biery",
+                  gender: "M",
+                  birthyear: 1972,
+                  score: 5,
+                  status: "V",
+                  seed: 3,
+                  primary_club_id: 5339
+                }
+              ]
+            },
+            {
+              id: 3703895,
+              seq: 0,
+              fencers: [
+                {
+                  id: 16691,
+                  usfa_id: "100038254",
+                  first_name: "Stephen",
+                  last_name: "Murray",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 5,
+                  status: "V",
+                  seed: 10,
+                  primary_club_id: 949
+                },
+                {
+                  id: 18578,
+                  usfa_id: "100077136",
+                  first_name: "William",
+                  last_name: "Sander",
+                  gender: "M",
+                  birthyear: 1951,
+                  score: 3,
+                  status: "D",
+                  seed: 16,
+                  primary_club_id: 160
+                }
+              ]
+            },
+            {
+              id: 3703896,
+              seq: 0,
+              fencers: [
+                {
+                  id: 18973,
+                  usfa_id: "100080647",
+                  first_name: "Maciej",
+                  last_name: "Zwieniecki",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 5,
+                  status: "V",
+                  seed: 4,
+                  primary_club_id: 1
+                },
+                {
+                  id: 91256,
+                  usfa_id: "100143000",
+                  first_name: "Allen",
+                  last_name: "Luong",
+                  gender: "M",
+                  birthyear: 1965,
+                  score: 1,
+                  status: "D",
+                  seed: 14,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703897,
+              seq: 0,
+              fencers: [
+                {
+                  id: 41218,
+                  usfa_id: "100022639",
+                  first_name: "Jason",
+                  last_name: "Epstein",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 5,
+                  status: "V",
+                  seed: 9,
+                  primary_club_id: 949
+                },
+                {
+                  id: 91256,
+                  usfa_id: "100143000",
+                  first_name: "Allen",
+                  last_name: "Luong",
+                  gender: "M",
+                  birthyear: 1965,
+                  score: 4,
+                  status: "D",
+                  seed: 14,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703898,
+              seq: 0,
+              fencers: [
+                {
+                  id: 76096,
+                  usfa_id: "100021886",
+                  first_name: "George",
+                  last_name: "Biery",
+                  gender: "M",
+                  birthyear: 1972,
+                  score: 3,
+                  status: "D",
+                  seed: 3,
+                  primary_club_id: 5339
+                },
+                {
+                  id: 91256,
+                  usfa_id: "100143000",
+                  first_name: "Allen",
+                  last_name: "Luong",
+                  gender: "M",
+                  birthyear: 1965,
+                  score: 5,
+                  status: "V",
+                  seed: 14,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703899,
+              seq: 0,
+              fencers: [
+                {
+                  id: 18578,
+                  usfa_id: "100077136",
+                  first_name: "William",
+                  last_name: "Sander",
+                  gender: "M",
+                  birthyear: 1951,
+                  score: 4,
+                  status: "D",
+                  seed: 16,
+                  primary_club_id: 160
+                },
+                {
+                  id: 91256,
+                  usfa_id: "100143000",
+                  first_name: "Allen",
+                  last_name: "Luong",
+                  gender: "M",
+                  birthyear: 1965,
+                  score: 5,
+                  status: "V",
+                  seed: 14,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703900,
+              seq: 0,
+              fencers: [
+                {
+                  id: 16691,
+                  usfa_id: "100038254",
+                  first_name: "Stephen",
+                  last_name: "Murray",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 5,
+                  status: "V",
+                  seed: 10,
+                  primary_club_id: 949
+                },
+                {
+                  id: 91256,
+                  usfa_id: "100143000",
+                  first_name: "Allen",
+                  last_name: "Luong",
+                  gender: "M",
+                  birthyear: 1965,
+                  score: 4,
+                  status: "D",
+                  seed: 14,
+                  primary_club_id: 929
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      id: 122632,
+      tournament_id: 27199,
+      event_id: 107665,
+      round_type: "de",
+      round_desc: "Round #2 - Direct Elimination",
+      seq: 2,
+      de_tables: [
+        {
+          id: 241440,
+          seq: 1,
+          of: 32,
+          bouts: [
+            {
+              id: 3703902,
+              seq: 2,
+              fencers: [
+                {
+                  id: 18578,
+                  usfa_id: "100077136",
+                  first_name: "William",
+                  last_name: "Sander",
+                  gender: "M",
+                  birthyear: 1951,
+                  score: 3,
+                  status: "D",
+                  seed: 17,
+                  primary_club_id: 160
+                },
+                {
+                  id: 92453,
+                  usfa_id: "100148293",
+                  first_name: "Ommer",
+                  last_name: "Bruce",
+                  gender: "M",
+                  birthyear: 1956,
+                  score: 10,
+                  status: "V",
+                  seed: 16,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703904,
+              seq: 4,
+              fencers: [
+                {
+                  id: 18973,
+                  usfa_id: "100080647",
+                  first_name: "Maciej",
+                  last_name: "Zwieniecki",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 0,
+                  status: "V",
+                  seed: 8,
+                  primary_club_id: 1
+                }
+              ]
+            },
+            {
+              id: 3703906,
+              seq: 6,
+              fencers: [
+                {
+                  id: 16691,
+                  usfa_id: "100038254",
+                  first_name: "Stephen",
+                  last_name: "Murray",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 0,
+                  status: "V",
+                  seed: 12,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703908,
+              seq: 8,
+              fencers: [
+                {
+                  id: 76096,
+                  usfa_id: "100021886",
+                  first_name: "George",
+                  last_name: "Biery",
+                  gender: "M",
+                  birthyear: 1972,
+                  score: 0,
+                  status: "V",
+                  seed: 4,
+                  primary_club_id: 5339
+                }
+              ]
+            },
+            {
+              id: 3703910,
+              seq: 10,
+              fencers: [
+                {
+                  id: 71378,
+                  usfa_id: "100021910",
+                  first_name: "Harold C",
+                  last_name: "Hayes",
+                  gender: "M",
+                  birthyear: 1946,
+                  score: 0,
+                  status: "V",
+                  seed: 14,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703912,
+              seq: 12,
+              fencers: [
+                {
+                  id: 10371,
+                  usfa_id: "100068286",
+                  first_name: "Oscar",
+                  last_name: "Estell",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 0,
+                  status: "V",
+                  seed: 6,
+                  primary_club_id: 382
+                }
+              ]
+            },
+            {
+              id: 3703914,
+              seq: 14,
+              fencers: [
+                {
+                  id: 18185,
+                  usfa_id: "100073116",
+                  first_name: "Dr. James",
+                  last_name: "Fiatarone",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 0,
+                  status: "V",
+                  seed: 10,
+                  primary_club_id: 765
+                }
+              ]
+            },
+            {
+              id: 3703915,
+              seq: 15,
+              fencers: [
+                {
+                  id: 34460,
+                  usfa_id: "100089035",
+                  first_name: "William",
+                  last_name: "Sterling",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 10,
+                  status: "V",
+                  seed: 15,
+                  primary_club_id: 949
+                },
+                {
+                  id: 8391,
+                  usfa_id: "100022250",
+                  first_name: "Charles",
+                  last_name: "Lucasey",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 4,
+                  status: "D",
+                  seed: 18,
+                  primary_club_id: 8016
+                }
+              ]
+            },
+            {
+              id: 3703916,
+              seq: 16,
+              fencers: [
+                {
+                  id: 78606,
+                  usfa_id: "100017339",
+                  first_name: "Tamas",
+                  last_name: "Vidovszky",
+                  gender: "M",
+                  birthyear: 1964,
+                  score: 0,
+                  status: "V",
+                  seed: 2,
+                  primary_club_id: 8101
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: 241441,
+          seq: 2,
+          of: 16,
+          bouts: [
+            {
+              id: 3703917,
+              seq: 1,
+              fencers: [
+                {
+                  id: 17814,
+                  usfa_id: "100029510",
+                  first_name: "Patrick",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 10,
+                  status: "V",
+                  seed: 1,
+                  primary_club_id: 949
+                },
+                {
+                  id: 92453,
+                  usfa_id: "100148293",
+                  first_name: "Ommer",
+                  last_name: "Bruce",
+                  gender: "M",
+                  birthyear: 1956,
+                  score: 7,
+                  status: "D",
+                  seed: 16,
+                  primary_club_id: 929
+                }
+              ]
+            },
+            {
+              id: 3703918,
+              seq: 2,
+              fencers: [
+                {
+                  id: 25203,
+                  usfa_id: "100017347",
+                  first_name: "William",
+                  last_name: "Cracraft",
+                  gender: "M",
+                  birthyear: 1959,
+                  score: 8,
+                  status: "D",
+                  seed: 9,
+                  primary_club_id: 160
+                },
+                {
+                  id: 18973,
+                  usfa_id: "100080647",
+                  first_name: "Maciej",
+                  last_name: "Zwieniecki",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 10,
+                  status: "V",
+                  seed: 8,
+                  primary_club_id: 1
+                }
+              ]
+            },
+            {
+              id: 3703919,
+              seq: 3,
+              fencers: [
+                {
+                  id: 11356,
+                  usfa_id: "100020009",
+                  first_name: "Tom",
+                  last_name: "Lutton",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 10,
+                  status: "V",
+                  seed: 5,
+                  primary_club_id: 5529
+                },
+                {
+                  id: 16691,
+                  usfa_id: "100038254",
+                  first_name: "Stephen",
+                  last_name: "Murray",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 7,
+                  status: "D",
+                  seed: 12,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703920,
+              seq: 4,
+              fencers: [
+                {
+                  id: 97866,
+                  usfa_id: "100004657",
+                  first_name: "Bryan",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1974,
+                  score: 5,
+                  status: "D",
+                  seed: 13,
+                  primary_club_id: 1527
+                },
+                {
+                  id: 76096,
+                  usfa_id: "100021886",
+                  first_name: "George",
+                  last_name: "Biery",
+                  gender: "M",
+                  birthyear: 1972,
+                  score: 10,
+                  status: "V",
+                  seed: 4,
+                  primary_club_id: 5339
+                }
+              ]
+            },
+            {
+              id: 3703921,
+              seq: 5,
+              fencers: [
+                {
+                  id: 41218,
+                  usfa_id: "100022639",
+                  first_name: "Jason",
+                  last_name: "Epstein",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 10,
+                  status: "V",
+                  seed: 3,
+                  primary_club_id: 949
+                },
+                {
+                  id: 71378,
+                  usfa_id: "100021910",
+                  first_name: "Harold C",
+                  last_name: "Hayes",
+                  gender: "M",
+                  birthyear: 1946,
+                  score: 4,
+                  status: "D",
+                  seed: 14,
+                  primary_club_id: 949
+                }
+              ]
+            },
+            {
+              id: 3703922,
+              seq: 6,
+              fencers: [
+                {
+                  id: 91256,
+                  usfa_id: "100143000",
+                  first_name: "Allen",
+                  last_name: "Luong",
+                  gender: "M",
+                  birthyear: 1965,
+                  score: 4,
+                  status: "D",
+                  seed: 11,
+                  primary_club_id: 929
+                },
+                {
+                  id: 10371,
+                  usfa_id: "100068286",
+                  first_name: "Oscar",
+                  last_name: "Estell",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 10,
+                  status: "V",
+                  seed: 6,
+                  primary_club_id: 382
+                }
+              ]
+            },
+            {
+              id: 3703923,
+              seq: 7,
+              fencers: [
+                {
+                  id: 17383,
+                  usfa_id: "100053615",
+                  first_name: "Lou",
+                  last_name: "Mariani",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 10,
+                  status: "V",
+                  seed: 7,
+                  primary_club_id: 929
+                },
+                {
+                  id: 18185,
+                  usfa_id: "100073116",
+                  first_name: "Dr. James",
+                  last_name: "Fiatarone",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 4,
+                  status: "D",
+                  seed: 10,
+                  primary_club_id: 765
+                }
+              ]
+            },
+            {
+              id: 3703924,
+              seq: 8,
+              fencers: [
+                {
+                  id: 34460,
+                  usfa_id: "100089035",
+                  first_name: "William",
+                  last_name: "Sterling",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 6,
+                  status: "D",
+                  seed: 15,
+                  primary_club_id: 949
+                },
+                {
+                  id: 78606,
+                  usfa_id: "100017339",
+                  first_name: "Tamas",
+                  last_name: "Vidovszky",
+                  gender: "M",
+                  birthyear: 1964,
+                  score: 10,
+                  status: "V",
+                  seed: 2,
+                  primary_club_id: 8101
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: 241442,
+          seq: 3,
+          of: 8,
+          bouts: [
+            {
+              id: 3703925,
+              seq: 1,
+              fencers: [
+                {
+                  id: 17814,
+                  usfa_id: "100029510",
+                  first_name: "Patrick",
+                  last_name: "Jones",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 8,
+                  status: "D",
+                  seed: 1,
+                  primary_club_id: 949
+                },
+                {
+                  id: 18973,
+                  usfa_id: "100080647",
+                  first_name: "Maciej",
+                  last_name: "Zwieniecki",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 10,
+                  status: "V",
+                  seed: 8,
+                  primary_club_id: 1
+                }
+              ]
+            },
+            {
+              id: 3703926,
+              seq: 2,
+              fencers: [
+                {
+                  id: 11356,
+                  usfa_id: "100020009",
+                  first_name: "Tom",
+                  last_name: "Lutton",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 10,
+                  status: "V",
+                  seed: 5,
+                  primary_club_id: 5529
+                },
+                {
+                  id: 76096,
+                  usfa_id: "100021886",
+                  first_name: "George",
+                  last_name: "Biery",
+                  gender: "M",
+                  birthyear: 1972,
+                  score: 5,
+                  status: "D",
+                  seed: 4,
+                  primary_club_id: 5339
+                }
+              ]
+            },
+            {
+              id: 3703927,
+              seq: 3,
+              fencers: [
+                {
+                  id: 41218,
+                  usfa_id: "100022639",
+                  first_name: "Jason",
+                  last_name: "Epstein",
+                  gender: "M",
+                  birthyear: 1971,
+                  score: 1,
+                  status: "D",
+                  seed: 3,
+                  primary_club_id: 949
+                },
+                {
+                  id: 10371,
+                  usfa_id: "100068286",
+                  first_name: "Oscar",
+                  last_name: "Estell",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 10,
+                  status: "V",
+                  seed: 6,
+                  primary_club_id: 382
+                }
+              ]
+            },
+            {
+              id: 3703928,
+              seq: 4,
+              fencers: [
+                {
+                  id: 17383,
+                  usfa_id: "100053615",
+                  first_name: "Lou",
+                  last_name: "Mariani",
+                  gender: "M",
+                  birthyear: 1955,
+                  score: 5,
+                  status: "D",
+                  seed: 7,
+                  primary_club_id: 929
+                },
+                {
+                  id: 78606,
+                  usfa_id: "100017339",
+                  first_name: "Tamas",
+                  last_name: "Vidovszky",
+                  gender: "M",
+                  birthyear: 1964,
+                  score: 10,
+                  status: "V",
+                  seed: 2,
+                  primary_club_id: 8101
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: 241443,
+          seq: 4,
+          of: 4,
+          bouts: [
+            {
+              id: 3703929,
+              seq: 1,
+              fencers: [
+                {
+                  id: 18973,
+                  usfa_id: "100080647",
+                  first_name: "Maciej",
+                  last_name: "Zwieniecki",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 10,
+                  status: "V",
+                  seed: 8,
+                  primary_club_id: 1
+                },
+                {
+                  id: 11356,
+                  usfa_id: "100020009",
+                  first_name: "Tom",
+                  last_name: "Lutton",
+                  gender: "M",
+                  birthyear: 1953,
+                  score: 9,
+                  status: "D",
+                  seed: 5,
+                  primary_club_id: 5529
+                }
+              ]
+            },
+            {
+              id: 3703930,
+              seq: 2,
+              fencers: [
+                {
+                  id: 10371,
+                  usfa_id: "100068286",
+                  first_name: "Oscar",
+                  last_name: "Estell",
+                  gender: "M",
+                  birthyear: 1961,
+                  score: 7,
+                  status: "D",
+                  seed: 6,
+                  primary_club_id: 382
+                },
+                {
+                  id: 78606,
+                  usfa_id: "100017339",
+                  first_name: "Tamas",
+                  last_name: "Vidovszky",
+                  gender: "M",
+                  birthyear: 1964,
+                  score: 10,
+                  status: "V",
+                  seed: 2,
+                  primary_club_id: 8101
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: 241444,
+          seq: 5,
+          of: 2,
+          bouts: [
+            {
+              id: 3703931,
+              seq: 1,
+              fencers: [
+                {
+                  id: 18973,
+                  usfa_id: "100080647",
+                  first_name: "Maciej",
+                  last_name: "Zwieniecki",
+                  gender: "M",
+                  birthyear: 1963,
+                  score: 9,
+                  status: "D",
+                  seed: 8,
+                  primary_club_id: 1
+                },
+                {
+                  id: 78606,
+                  usfa_id: "100017339",
+                  first_name: "Tamas",
+                  last_name: "Vidovszky",
+                  gender: "M",
+                  birthyear: 1964,
+                  score: 10,
+                  status: "V",
+                  seed: 2,
+                  primary_club_id: 8101
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
