@@ -1,0 +1,9 @@
+<template name="tournaments">
+  Please select a tournament:
+  <select>
+    <option>Pick one...</option>
+    {{#each tournaments}}
+    <option value="{{id}}">{{name}}</option>
+    {{/each}}
+  </select>
+</template>

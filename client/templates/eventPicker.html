@@ -1,0 +1,9 @@
+<template name="eventPicker">
+  Pick an event:
+  <select>
+    <option>Pick one...</option>
+    {{#each events}}
+    <option value="{{id}}">{{full_name}}</option>
+    {{/each}}
+  </select>
+</template>

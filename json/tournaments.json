@@ -1,0 +1,69 @@
+//https://api.askfred.net/v1/tournament/?_api_key=8551171e3a00b135970699f126b63d35&start_date_gte=2015-03-04&start_date_lte=2015-03-04&_sort=start_date_asc
+{
+  filters: {
+    start_date_gte: "2015-03-04",
+    start_date_lte: "2015-03-04",
+    _sort: "start_date_asc"
+  },
+  total_matched: 1,
+  page: 1,
+  per_page: 10,
+  tournaments: [
+    {
+      id: 29122,
+      name: "Epee Fight Night",
+      start_date: "2015-03-04",
+      end_date: "",
+      comments: "Our Mission is to provide the highest quality fencing instruction, in an environment that inspires creativity, confidence, self-discipline and excellence in all areas of life.",
+      prereg_open: "2015-02-02",
+      prereg_close: "2015-03-03",
+      authority: "NONE",
+      is_fee_required: true,
+      is_roc: false,
+      is_baycup: false,
+      is_visible: true,
+      is_cancelled: false,
+      is_accepting_fees_online: true,
+      fee: 0,
+      fee_currency: "USD",
+      venue: {
+        name: "Durkan Fencing Academy",
+        address: "60 Saddle River Avenue",
+        city: "South Hackensack",
+        state: "NJ",
+        zip: "07606",
+        country: "USA",
+        timezone: "America/New_York",
+        latitude: 40.864326,
+        longitude: -74.098825,
+        geocode_precision: "street"
+      },
+      division: {
+        id: 29,
+        name: "New Jersey",
+        abbrev: "NJ"
+      },
+      events: [
+        {
+          id: 115168,
+          tournament_id: 29122,
+          tournament: "Epee Fight Night",
+          full_name: "Unsanctioned Mixed Epee",
+          weapon: "Epee",
+          gender: "Mixed",
+          authority: {},
+          age_limit: "None",
+          rating_limit: "Open",
+          rating: "",
+          rating_prediction: "",
+          entries: 0,
+          prereg_count: 0,
+          is_team: false,
+          description: "",
+          close_of_reg: null,
+          fee: "20.00"
+        }
+      ]
+    }
+  ]
+}
